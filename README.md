@@ -101,6 +101,7 @@ Check solve section for steganography.
 
 *Tools used for performing various kinds of attacks*
 
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open source autonomous AI penetration testing platform covering web, API, Active Directory and Kubernetes, fully self hosted and local.
 - [Bettercap](https://github.com/bettercap/bettercap) - Framework to perform MITM (Man in the Middle) attacks.
 - [Yersinia](https://github.com/tomac/yersinia) - Attack various protocols on layer 2.
 
